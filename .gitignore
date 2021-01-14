@@ -48,3 +48,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+/WFCVoiceConnector/build/
+/app/build/
+/.gradle
+/.idea
+/local.properties
