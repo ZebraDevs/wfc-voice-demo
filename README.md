@@ -1,29 +1,9 @@
-# README #
+# Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# WFC Voice Demo
+WFCDemo is an example project of android app using WFCVoiceConnector library with example UI screen allowing user to initiate and control Zebra WFC Voice application call remotely via service connector.
 
-### What is this repository for? ###
+WFCVoiceConnector is Android library for establishing service connection with Zebra WFC Voice app running in headless mode. This library can be used by 3rd party application. 
+The WFCVoiceConnector.aar library is part of WFCDemo project.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+For more details, Please refer to WFC Voice Programmer's Guide available at [Zebra WFC Voice Support](https://www.zebra.com/us/en/support-downloads/software/productivity-apps/voice-client.html)
