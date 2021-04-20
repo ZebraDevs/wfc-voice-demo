@@ -1,4 +1,4 @@
-# Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support.
+# Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support. Please use at your discretion.
 
 # WFC Voice Demo
 WFCDemo is an example project of android app using WFCVoiceConnector library with example UI screen allowing user to initiate and control Zebra WFC Voice application call remotely via service connector.
