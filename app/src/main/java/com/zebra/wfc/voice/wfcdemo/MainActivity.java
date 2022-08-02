@@ -109,14 +109,13 @@ public class MainActivity extends Activity implements OnClickListener,
 			Log.i(TAG,
 					"Received PHONE_STATE from WFConnect state="
 							+ intent.getStringExtra("state")
+					+ " registration_state=" + intent.getStringExtra("registration_state")
 					+ " number=" + intent.getStringExtra("number")
 					+ " line_id=" + intent.getStringExtra("line_id")
 					+ " line_extension=" + intent.getStringExtra("line_extension")
 					+ " line_registered=" + intent.getBooleanExtra("line_registered", false)
+					+ " suspended=" + intent.getBooleanExtra("suspended", false)
 				 );
-
-
-
 		}
 	};
 
